@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: lightseagreen;
+    padding: 5px;
+   
+}
+.BigTitle {
+    border-radius: 10px;
+    background-color: lavender;
+    margin: auto;
+    width:fit-content;
+    height: fit-content;
+    align-items: center;
+
+}
